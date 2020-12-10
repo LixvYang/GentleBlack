@@ -1,7 +1,8 @@
 {
     "name": "gentleblack",
     "displayName": "GentleBlack",
-    "description": "Hello world",
+    "description": "You would feel warm in this theme",
+    "publisher": "yanglixin",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.51.0"

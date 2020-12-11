@@ -1,6 +1,8 @@
 # README
 ## GentleBlack Theme
 
+:yellow_heart:
+
 GentleBlack theme with a brown background.You would feel warm in this theme.
 
 ## ScreenShot
